@@ -1,0 +1,27 @@
+[
+    {
+        "id": "quest_1",
+        "title": "pickup all trash",
+        "quest_items": ["some", "trash_2", "trash_3"]
+    },
+    {
+          "id": "quest_2",
+          "title": "Clear window",
+          "quest_items": ["dirt_1"]
+    },
+    {
+        "id": "quest_3",
+        "title": "Check fuel",
+        "quest_items": ["fuel"]
+    },
+    {
+        "id": "quest_4",
+        "title": "",
+        "quest_items": [""]
+    },
+    {
+        "id": "quest_5",
+        "title": "",
+        "quest_items": [""]
+    }
+]
